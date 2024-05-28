@@ -1,0 +1,60 @@
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  .navbar-toggler {
+    border-color: #ffffff;
+    text-decoration: none;
+}
+
+.card-title{
+    font-size: 20pt;
+    font-weight: lighter;
+    opacity: 100%;
+}
+
+.card-text {
+    font-family: "Roboto", sans-serif;
+    font-size: 16pt;
+    font-weight: lighter;
+}
+
+.ubicacion {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.card-footer {
+    text-align: end;
+}
+
+.precio {
+    font-size: 16pt;
+    font-weight: lighter;
+    color: #707070;    
+}
+
+.promo {
+    color: #28A745;
+    font-family: "Roboto", sans-serif;
+    font-size: 20pt;
+    opacity: 100%;
+    font-weight: bold;
+    padding-left: 10px;    
+}
+
+.call-text {
+    font-size: 21pt;
+    text-align: center;
+    color: #ffffff;
+}
+
+.texto-footer {
+    font-size: 16pt;
+    font-weight: lighter;
+    color: #707070;
+}
